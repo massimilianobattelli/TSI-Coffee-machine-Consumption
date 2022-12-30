@@ -11,4 +11,5 @@ La colonna Energy rappresenta il consumo di energia totale, espresso in Wmin (Wa
 
 La colonna *Topic** rappresenta il topic del messaggio mqtt ricevuto dal sensore.
 
-Rappresentare i consumi totali in kWh (kiloWatt ora) con una heatmap che abbia sull'asse x le ore del giorno e sull'asse y il giorno della settimana.
+Obiettivo:
+  - Rappresentare i consumi totali in kWh (kiloWatt ora) con una heatmap che abbia sull'asse x le ore del giorno e sull'asse y il giorno della settimana.
