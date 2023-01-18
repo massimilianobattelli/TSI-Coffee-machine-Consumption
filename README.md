@@ -10,6 +10,7 @@ df['Date'] = pd.to_datetime(df['Date'], utc = True).dt.tz_convert('Europe/Berlin
 La colonna Energy rappresenta il consumo di energia totale, espresso in Wmin (Watt minuto), a partire dall'accensione del sensore. Si noti che il sensore è stato riavviato diverse volte nel periodo di osservazione e, a seguito di ciascun riavvio, il conteggio è ripartito da 0.
 
 La colonna *Topic** rappresenta il topic del messaggio mqtt ricevuto dal sensore.
+La cartella monthly-consumption contiente un analisi analoga in cui si rappresentano i consumi giornalieri di ogni mese
 
 Obiettivo:
   - Rappresentare i consumi totali in kWh (kiloWatt ora) con una heatmap che abbia sull'asse x le ore del giorno e sull'asse y il giorno della settimana.
