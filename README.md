@@ -11,5 +11,5 @@ La colonna Topic rappresenta il topic del messaggio mqtt ricevuto dal sensore.
 
 Obiettivi:
 
-Rappresentare i consumi totali in kWh (kiloWatt ora) con una heatmap che abbia sull'asse x le ore del giorno e sull'asse y il giorno della settimana.
-Rappresentare i consumi totali in kWh giornalieri con una heatmap che abbia sull'asse x il giorno e sull'asse y il mese.
+* Rappresentare i consumi totali in kWh (kiloWatt ora) con una heatmap che abbia sull'asse x le ore del giorno e sull'asse y il giorno della settimana.
+* Rappresentare i consumi totali in kWh giornalieri con una heatmap che abbia sull'asse x il giorno e sull'asse y il mese.
