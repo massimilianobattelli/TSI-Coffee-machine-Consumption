@@ -1,4 +1,4 @@
-Alexide coffee-machine
+#Alexide coffee-machine
 Progetto di Laboratorio di Big Data, Data Minings, e Data Analytics
 
 Il file 'Data.csv' contiene i dati relativi al consumo di energia elettrica della macchina del caffè di Alexide.
