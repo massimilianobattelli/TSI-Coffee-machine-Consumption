@@ -1,7 +1,7 @@
 # Alexide coffee-machine
 Lab project of Big Data, Data Minings, and Data Analytics
 
-'Data.csv' file contains data relative the energy consumption of Alexide coffee machine
+'Data.csv' file contains data relative to the energy consumption of Alexide's coffee machine
 
 'Date' columns shows the date and hour of the sensor registration
 
