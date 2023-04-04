@@ -1,16 +1,19 @@
 # Alexide coffee-machine
-Progetto di Laboratorio di Big Data, Data Minings, e Data Analytics
+Lab project of Big Data, Data Minings, and Data Analytics
 
-Il file 'Data.csv' contiene i dati relativi al consumo di energia elettrica della macchina del caffè di Alexide.
+'Data.csv' file contains data relative the energy consumption of Alexide coffee machine
 
-La colonna Date rappresenta data e ora della registrazione del sensore.
+'Date' columns shows the date and hour of the sensor registration
 
-La colonna Energy rappresenta il consumo di energia totale, espresso in Wmin (Watt minuto), a partire dall'accensione del sensore.
+'Energy' columns shows the total energy consumption, (W/minutes), since the sensor was switched on
 
-La colonna Topic rappresenta il topic del messaggio mqtt ricevuto dal sensore.
+'Topic' columns shows the topic of the mqtt message recieved by the sensor
 
-Obiettivi:
+Goals:
 
-* Rappresentare i consumi totali in kWh (kiloWatt ora) con una heatmap che abbia sull'asse x le ore del giorno e sull'asse y il giorno della settimana.
-* Rappresentare i consumi totali in kWh giornalieri con una heatmap che abbia sull'asse x il giorno e sull'asse y il mese.
-* Calcolare il consumo medio nei giorni lavorativi in kW
+* Show total consumption as kWh through an heatmap having hours on the x-axis and the day of the week on the y-axis
+* Same as above but with day on the x-axis and month on the y-axis
+* Avarage consumption for each day as kW
+
+
+
